@@ -180,6 +180,8 @@ fun Perfil() {
                 ) { Text("Seguir")}
         }
 
+
     }
+
 
 }
